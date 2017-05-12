@@ -82,7 +82,8 @@ NSMutableArray* holdValue;
             score = [_fiveDice[i] diceNum] + score;
             
 //            [score appendString:[NSString stringWithFormat:@"Score: %@", ]];
-            
+            //herer
+            //asdasdasd
         }
     }
     return score;
